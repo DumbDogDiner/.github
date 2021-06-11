@@ -130,8 +130,10 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 ### Git Commit Messages
 
--   Use the present tense ("Add feature" not "Added feature")
--   Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+-   Be descriptive ("feat: Add x, y, and z" not "added stuff")
+-   Prefix all commits with `feat:`, `fix:`, `refactor:`, or `misc:` ("fix: Move cursor to..." not "Move cursor to...")
+-   Use the present tense ("feat: Add x, y, and z" not "Added x, y, and z")
+-   Use the imperative mood ("fix: Move cursor to..." not "fix: Moves cursor to...")
 -   Limit the first line to 72 characters or less
 -   Reference issues and pull requests liberally after the first line
 
